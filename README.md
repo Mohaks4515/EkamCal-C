@@ -8,4 +8,4 @@ Scientific Calculator
 Formula Calculator
 This project combines multiple calculation tools in one platform for enhanced usability and efficiency. 🚀
 
-Live demo -->  "https://ekamcalc.unaux.com/"
+Live demo -->  "http://ekamcalc.unaux.com/"
